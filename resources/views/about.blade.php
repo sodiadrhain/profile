@@ -34,7 +34,7 @@
                 </li>
                 <li>
                     <strong>Birth Date:</strong>
-                    <span>October 24, 19--</span>
+                    <span>October 24, ----</span>
                 </li>
                 <li>
                     <strong>Job:</strong>

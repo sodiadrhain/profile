@@ -26,20 +26,27 @@
                     </div>
 
                     <div class="timeline-header">
-                        <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug" width="300" height="250px">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597450568/Screenshot_497_hkgurp.png" alt="My Profile Site" width="400" height="350px">
                     </div>
 
                     <div class="timeline-content">
-                        <h3>HNG Internship</h3>
+                        <h3>Personal Portfolio Site</h3>
                         <p>
-                            Deployed apps and worked on dockerizing apps, microservices and APIs.
-                            Deployed apps and worked on dockerizing apps, microservices and APIs.
-                            Deployed apps and worked on dockerizing apps, microservices and APIs.
+                            This is simply my personal profile / porfolio; it contains stuffs about me, basically a personal porfolio for potential recuiters to see me. it was built with Laravel, sections of this app include:
+                            <br>
+                            -About me.
+                            <br>
+                            -Contact.
+                            <br>
+                            -Works 
+                            <br>
+                            -My Resume.
+
                         </p>
                             <div class="row button-section">
                                 <div class="col-twelve">
-                                    <a href="#contact" title="About" class="button stroke smoothscroll">Source code</a>
-                                    <a href="#" title="Works" class="button stroke smoothscroll">Demo</i></a>
+                                    <a href="https://github.com/sodiadrhain/profile" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://soji-profile.herokuapp.com/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
                                 </div>
                             </div>
                     </div>
