@@ -13,7 +13,7 @@
             <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi
                 aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
                 <br><br>
-            <a href="#" title="Download CV" class="button button-primary">Download CV</a>
+            <a href="https://drive.google.com/file/d/10EEVvUEF_oPsqZQyUzeZ1pGZkxMOm745/view?usp=sharing" title="Download CV" class="button button-primary">Download CV</a>
         </div>
     </div> <!-- /section-intro-->
 

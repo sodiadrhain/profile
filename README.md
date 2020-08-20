@@ -17,9 +17,10 @@ This is simply my personal profile / porfolio; it contains stuffs about me, basi
 
 ## How to test
 
-- Simple clone this repository
+- Live url can be found in repository description.
+- It can also be tested by simply clonning this repository
 - Make sure you have PHP and Composer installed locally
 - Run composer install in folder directory
 - Generate a app key by using `php artisan key:generate`
 - Now you can start the appliaction run `php artisan serve`
-- Visit `localhost:8000` to see app runing
+- Visit `localhost:8000` to see app running

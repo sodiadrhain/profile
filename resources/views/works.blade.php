@@ -38,7 +38,7 @@
                             <br>
                             -Contact.
                             <br>
-                            -Works 
+                            -Works. 
                             <br>
                             -My Resume.
 
@@ -56,89 +56,123 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
+                        <i class="fa fa-work"></i>
                     </div>
 
-                    <!--                     <div class="timeline-header">
-                                        <h3>Backend Developer</h3>
-                                        <p>June 2020 - Present</p>
-                                    </div> -->
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597900379/getviral_mgzkvg.png" alt="GetViral" width="400" height="350px">
+                    </div>
 
                     <div class="timeline-content">
-                        <h3>HNG Internship</h3>
+                        <h3>GetViral - Influencers Network</h3>
                         <p>
-                            <ul>
-                                <li>
-                                    Took part in the tech competition HNG Internship, finished as a finalist.
-                                </li>
-                                <li>
-                                    Designed backend logic and database schemas for team projects including
-                                    FundMyLaptop, TalentPool and GetViral.
-                                </li>
-                                <li>
-                                    Lead my team and assisted in project management on different occasions.
-                                </li>
-                                <li>
-                                    Deployed apps and worked on dockerizing apps, microservices and APIs.
-                                </li>
-                                <li>
-                                    Collaborated with other team members in using Git, Github and
-                                    Clubhouse.io to manage and deliver projects.
-                                </li>
-                            </ul>
+                            GetViral is a provides a platform for advertisers grow their brand by creating social campaigns and selecting the best suited publishers to execute their vision, I worked on:
+                            <br>
+                            -Email and Social Auth Feature.
+                            <br>
+                            -Super Admin Feature.
+                            <br>
+                            -Advertisers pages. 
+                            <br>
+                            -Search capabilty for both Advertisers and Publishers.
+
                         </p>
                             <div class="row button-section">
                                 <div class="col-twelve">
-                                    <a href="#contact" title="About" class="button stroke smoothscroll"><i class="fa fa-arrow-left"> </i> About</a>
-                                    <a href="#" title="Works" class="button stroke smoothscroll">Works <i class="fa fa-arrow-right"></i></a>
+                                    <a href="https://github.com/hngi/getviral" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://getviral.ml/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
                                 </div>
                             </div>
                     </div>
 
                 </div> <!-- /timeline-block -->
-<div class="timeline-block">
+                <div class="timeline-block">
 
-    <div class="timeline-ico">
-        <i class="fa fa-briefcase"></i>
-    </div>
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
 
-    <!--                     <div class="timeline-header">
-                        <h3>Backend Developer</h3>
-                        <p>June 2020 - Present</p>
-                    </div> -->
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597900377/Screenshot_522_itwbfv.png" alt="FundMyLaptop" width="400" height="350px">
+                    </div>
 
                     <div class="timeline-content">
-                        <h3>HNG Internship</h3>
+                        <h3>FundMyLaptop</h3>
                         <p>
-                            <ul>
-                                <li>
-                                    Took part in the tech competition HNG Internship, finished as a finalist.
-                                </li>
-                                <li>
-                                    Designed backend logic and database schemas for team projects including
-                                    FundMyLaptop, TalentPool and GetViral.
-                                </li>
-                                <li>
-                                    Lead my team and assisted in project management on different occasions.
-                                </li>
-                                <li>
-                                    Deployed apps and worked on dockerizing apps, microservices and APIs.
-                                </li>
-                                <li>
-                                    Collaborated with other team members in using Git, Github and
-                                    Clubhouse.io to manage and deliver projects.
-                                </li>
-                            </ul>
+                            FundMyLaptop is a project that involves investing in people that needs Laptops, there a Node.js version and PHP version of this App which i did work on both, I worked on:
+                            <br>
+                            -Buiding new API endpoints.
+                            <br>
+                            -Authentication.
+                            <br>
+                            -General userflow. 
+
                         </p>
                             <div class="row button-section">
                                 <div class="col-twelve">
-                                    <a href="#contact" title="About" class="button stroke smoothscroll"><i class="fa fa-arrow-left"> </i> About</a>
-                                    <a href="#" title="Works" class="button stroke smoothscroll">Works <i class="fa fa-arrow-right"></i></a>
+                                    <a href="https://github.com/hngi/Fund-My-Laptop-BE" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://fundmylaptop.com/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
                                 </div>
                             </div>
                     </div>
 
                 </div> <!-- /timeline-block -->
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597900377/Screenshot_523_zgmh1c.png" alt="Number Guessing Game App" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Number Guessing Game App</h3>
+                        <p>
+                            A game app built with React.js, users come in, select game, choose a mode, the guess a number which was pre-sselected by the App, if user is right, they earn points, you also have amount of life lines till game is over; I solely built this App myself.
+
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://github.com/sodiadrhain/number-guess-game" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://sodiadrhain.github.io/number-guess-game/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597900350/malaria-app_hs2jxj.png" alt="Malaria Detection" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Software-based Diagnostic Approach for Detection of Malaria Parasite in Blood</h3>
+                        <p>
+                            A desktop based application that detects the presense of malaria parasite in malaria stained digital images, You simply input the digital malaria image(s), click detect and in a jiffy it gives you results. Demo is available offline because APP is desktop based. Built with:
+                            <br>
+                            -MathLab / Neural Networks.
+                            <br>
+                            -Project is published on IJCA as well.
+
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://www.ijcaonline.org/archives/volume175/number12/31504-2020920600" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://www.ijcaonline.org/archives/volume175/number12/adenowo-2020-ijca-920600.pdf" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
+                              
             </div> <!-- /timeline-wrap -->
 
         </div> <!-- /col-twelve -->

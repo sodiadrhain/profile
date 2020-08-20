@@ -13,7 +13,7 @@
 
                 <img src="images/profile-pic.jpg" alt="Profile Picture">
 
-                <p class="lead">I love building new stuffs, solving problems that gets to make things work. I am a fan of clean code too; love to find bugs and fix them; Most times in my leisure I watch football or play video games, else I sleep. I also like researching in finding new ideas and solutions to problems.</p>
+                <p class="lead">I am Adesoji Awobajo, a software engineer that loves building new stuffs, solving problems that gets to make things work. I am a fan of clean code too; love to find bugs and fix them; In my leisure I watch football or play video games, else I sleep. I also like researching in finding new ideas and solutions to problems.</p>
             </div>
 
         </div>
@@ -51,6 +51,10 @@
                 <li>
                     <strong>Phone:</strong>
                     <span>(234) 818-582-0902</span>
+                </li>
+                <li>
+                    <strong>Location:</strong>
+                    <span>Lagos, Nigeria</span>
                 </li>
 
             </ul> <!-- /info-list -->

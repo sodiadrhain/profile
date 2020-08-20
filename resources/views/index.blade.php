@@ -17,7 +17,7 @@
 	   			</p>
 
 	   			<a class="button stroke" href="/about" title="">See More About Me</a>
-
+				<!-- <a class="button stroke" href="/about" title="">My Articles</a> -->
 	   		</div>  
             <ul class="intro-social">
                 <li><a href="https://twitter.com/sodiadrhain" target="_blank"><i class="fa fa-twitter"></i></a></li>
