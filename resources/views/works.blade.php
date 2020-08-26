@@ -60,6 +60,39 @@
                     </div>
 
                     <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_545_baipq3.png" alt="Smithronics" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Smithronics - E-commerce Web App</h3>
+                        <p>
+                           Smithronics is an ecommerce web app made for creating a better life for people with quality electronics and household appliances at affordable price that will make people smile always.
+                           Users can buy items and pay installmentally, they can choose payment to be daily, weekly, monthly , I did:
+                            <br>
+                            -All backend features.
+                            <br>
+                            -Also used some templating and worked on the Frontend.
+                            <br>
+                            -App was built using Laravel.
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://github.com/sodiadrhain/smithronics" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://smithronics.ml/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+                <!-- /timeline-block -->
+
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
                         <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1597900379/getviral_mgzkvg.png" alt="GetViral" width="400" height="350px">
                     </div>
 

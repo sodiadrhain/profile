@@ -12,7 +12,7 @@ This is simply my personal profile / porfolio; it contains stuffs about me, basi
 
 - About me.
 - Contact.
-- Works 
+- Works.
 - My Resume.
 
 ## How to test
