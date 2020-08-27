@@ -84,6 +84,68 @@
                     </div>
 
                 </div> <!-- /timeline-block -->
+
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_545_baipq3.png" alt="Star Hotels" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Star Hotels</h3>
+                        <p>
+                           Fronend, U.I contribution team project; collaborated as a team to get the U.I of this project done, we replicated a design done with figma, Figma link can be found in project source code. I contibuted in:
+                            <br>
+                            -Designing some U.I pages.
+                            <br>
+                            -Fixed favicon feature.
+                            <br>
+                            -Worked on major page bugs and fixes.
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://github.com/hngi/Team-Incredible-FE-Hotel-Layan" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://hotel-layan.netlify.app/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598493449/Screenshot_553_cqt8mm.png" alt="Appointment Booking" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Medical Appointment Booking Web App</h3>
+                        <p>
+                           A PHP (pure / vanilla PHP, and no frameworks) built appointment booking App for doctors and patients; basic process of this app is you signup as a patient, make payment and schedule an appointment with a medical staff. Flutterwave payment was integrated.
+                            <br>
+                            -Best visited with tablets / larger screens and desktop browsers.
+                            <br>
+                            -Some bootstrap was used for the U.I.
+                            <br>
+                            -It is a core backend PHP project.
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://github.com/sodiadrhain/php-auth-system" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="http://soji-hospital.epizy.com/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
                 <!-- /timeline-block -->
 
                 <div class="timeline-block">
