@@ -92,13 +92,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598462786/Screenshot_545_baipq3.png" alt="Star Hotels" width="400" height="350px">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598493456/Screenshot_554_mu8ndw.png" alt="Star Hotels" width="400" height="350px">
                     </div>
 
                     <div class="timeline-content">
                         <h3>Star Hotels</h3>
                         <p>
-                           Fronend, U.I contribution team project; collaborated as a team to get the U.I of this project done, we replicated a design done with figma, Figma link can be found in project source code. I contibuted in:
+                           Frontend, U.I contribution team project; collaborated as a team to get the U.I of this project done, we replicated a design done with figma, Figma link can be found in project source code. I contibuted in:
                             <br>
                             -Designing some U.I pages.
                             <br>
@@ -139,7 +139,7 @@
                         </p>
                             <div class="row button-section">
                                 <div class="col-twelve">
-                                    <a href="https://github.com/sodiadrhain/php-auth-system" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://github.com/sodiadrhain/php-auth-system/tree/snh-v3" title="Source Code" class="button stroke" target="_blank">Source code</a>
                                     <a href="http://soji-hospital.epizy.com/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
                                 </div>
                             </div>
