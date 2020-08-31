@@ -212,6 +212,38 @@
                     </div>
 
                 </div> <!-- /timeline-block -->
+                <!-- /timeline-block -->
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-work"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <img src="https://res.cloudinary.com/haazniz3y/image/upload/v1598842260/Screenshot_559_f9dpur.png" alt="Student Attendance Sys" width="400" height="350px">
+                    </div>
+
+                    <div class="timeline-content">
+                        <h3>Student Attendance Sys Api</h3>
+                        <p>
+                            API Project: Student Attendance System version 1.0, node / expressjs / loopbackjs endpoints for user authentication both lecturers and students can login and register, used mongoDB for the database:
+                            <br>
+                            -Buiding new API endpoints.
+                            <br>
+                            -Authentication.
+                            <br>
+                            -Auth userflow. 
+
+                        </p>
+                            <div class="row button-section">
+                                <div class="col-twelve">
+                                    <a href="https://github.com/sodiadrhain/student-attendance" title="Source Code" class="button stroke" target="_blank">Source code</a>
+                                    <a href="https://student-attend-lasu.herokuapp.com/explorer/" title="Demo" class="button stroke" target="_blank">Demo</i></a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div> <!-- /timeline-block -->
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
